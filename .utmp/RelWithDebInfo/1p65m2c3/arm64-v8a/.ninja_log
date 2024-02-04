@@ -1,0 +1,21 @@
+# ninja log v5
+62	265	7271858036073777	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2306c1e306e4a184
+12	1678	7271858050079162	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	557f8ce07f47161e
+267	538	7271858038005480	C:/Unity Project Games/Janaury/Merge Ball/Merge Ball/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p65m2c3/obj/arm64-v8a/libswappywrapper.so	9d2ca072eeabb653
+33	1107	7271858044379385	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9992d2d0876de839
+43	1239	7271858045770651	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a3ba0ecf49ddc321
+5	1358	7271858046730327	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b8deec2aae979047
+18	1237	7271858045490651	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	fd5cdc732538f107
+54	1329	7271858046550392	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d5800d6cedbc4e24
+24	1648	7271858049729009	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e1517be8761327dc
+1678	1971	7271858051930000	C:/Unity Project Games/Janaury/Merge Ball/Merge Ball/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p65m2c3/obj/arm64-v8a/libgame.so	5cac2cd4581c6de2
+61	618	7272479833791127	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2306c1e306e4a184
+619	1016	7272479837012046	C:/Unity Project Games/Janaury/Merge Ball/Merge Ball/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p65m2c3/obj/arm64-v8a/libswappywrapper.so	9d2ca072eeabb653
+45	1399	7272479841540010	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9992d2d0876de839
+39	1523	7272479842695339	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a3ba0ecf49ddc321
+13	1704	7272479843746829	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	fd5cdc732538f107
+54	1844	7272479844499974	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d5800d6cedbc4e24
+5	1983	7272479846716022	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b8deec2aae979047
+22	2163	7272479849143037	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e1517be8761327dc
+28	2178	7272479849201656	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	557f8ce07f47161e
+2178	2559	7272479852135933	C:/Unity Project Games/Janaury/Merge Ball/Merge Ball/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p65m2c3/obj/arm64-v8a/libgame.so	5cac2cd4581c6de2
